@@ -11,6 +11,7 @@ For example, for Windows, you can follow these steps to configure:
 ```batch
 cpuminer.exe -a cpupower -o stratum+tcp://pool.questchain.io:3032 -u WALLET_NUMBER
 pause
-Replace WALLET_NUMBER with your wallet address.
 
+
+Replace WALLET_NUMBER with your wallet address.
 4.Double-click to run the start.bat file and wait for the mining software to indicate successful joining of our pool.

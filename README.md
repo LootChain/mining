@@ -14,4 +14,5 @@ pause
 
 ```
 Replace WALLET_NUMBER with your wallet address.
+
 4.Double-click to run the start.bat file and wait for the mining software to indicate successful joining of our pool.
